@@ -1,0 +1,35 @@
+*{
+margin: 0;
+padding: 0;
+}
+.nav-info{
+    list-style: none;
+    display: flex;
+    gap: 25px;
+    font-size: small;
+    font-weight: bolder;
+}
+.navbar{
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding: 15px 45px;
+}
+.nav-info li a{
+    text-decoration: none;
+    color:#000000
+}
+/* button */
+.nav-btn{
+text-decoration: none;
+background-color: #256f46;
+color: aliceblue;
+border-radius: 4px;
+border: none;
+padding: 5px 3px;
+
+font-weight: 600;
+
+}
+
+
